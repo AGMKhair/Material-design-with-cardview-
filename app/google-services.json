@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339047168215",
+    "firebase_url": "https://isp-billing.firebaseio.com",
+    "project_id": "isp-billing",
+    "storage_bucket": "isp-billing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339047168215:android:f9c2cdf6da1051ea",
+        "android_client_info": {
+          "package_name": "com.example.sabbir.ispbilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339047168215-cnu705cop9mfle1l4rgbmts6qij47iic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabbir.ispbilling",
+            "certificate_hash": "5d9e5cbee6ca848fd0e7b18e928b200554f16394"
+          }
+        },
+        {
+          "client_id": "339047168215-k9vrb3vhvo7df9ljselmtl3fik1qk4ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsjmByKDaYCkI-1il0ZIK7lYgnazbOkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339047168215-k9vrb3vhvo7df9ljselmtl3fik1qk4ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
